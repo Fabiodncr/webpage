@@ -101,7 +101,7 @@ export default defineConfig(({ command }) => {
     
     themeConfig: {
       socialLinks: [
-        { icon: 'github', link: 'https://github.com' },
+        { icon: 'github', link: 'https://github.com/Fabiodncr' },
         { icon: 'linkedin', link: 'https://linkedin.com' }
       ]
     } 

@@ -26,9 +26,9 @@ export default defineConfig(({ command }) => {
         themeConfig: {
           nav: [
             { text: 'Home', link: '/' },
-            { text: 'Pubblicazioni', link: '/pubblicazioni' },
+            { text: 'Ricerca', link: '/ricerca' },
             { text: 'Didattica', link: '/didattica' },
-            { text: 'Eventi', link: '/eventi' }
+            { text: 'Comunicazione', link: '/comunicazione' },
           ],
           
           sidebar: [
@@ -36,18 +36,18 @@ export default defineConfig(({ command }) => {
               text: 'Menu',
               items: [
                 { text: 'Home', link: '/' },
-                { text: 'Pubblicazioni', link: '/pubblicazioni' },
-                { 
-                  text: 'Didattica e Animazioni', 
+                { text: 'Ricerca', link: '/ricerca' },
+                {
+                  text: 'Didattica', 
                   link: '/didattica',
-                  collapsed: false,
+                  collapsed: true,
                   items: [
                     { text: 'Lezione 1', link: '/didattica/lezione-1' },
                     { text: 'Lezione 2', link: '/didattica/lezione-2' },
                     { text: 'Lezione 3', link: '/didattica/lezione-3' }
                   ]
                 },
-                { text: 'Eventi', link: '/eventi' },
+                { text: 'Comunicazione', link: '/comunicazione' }
               ]
             }
           ]
@@ -62,9 +62,9 @@ export default defineConfig(({ command }) => {
         themeConfig: {
           nav: [
             { text: 'Home', link: '/en/index' },
-            { text: 'Publications', link: '/en/pubblicazioni' },
-            { text: 'Didactic', link: '/en/didattica' },
-            { text: 'Events', link: '/en/eventi' }
+            { text: 'Research', link: '/en/ricerca' },
+            { text: 'Teaching', link: '/en/didattica' },
+            { text: 'Communication', link: '/en/comunicazione' }
           ],
 
           sidebar: [
@@ -72,18 +72,18 @@ export default defineConfig(({ command }) => {
               text: 'Menu',
               items: [
                 { text: 'Home', link: '/en/index' },
-                { text: 'Publications', link: '/en/pubblicazioni' },
+                { text: 'Research', link: '/en/ricerca' },
                 { 
-                  text: 'Didactic and Animations', 
+                  text: 'Teaching', 
                   link: '/en/didattica',
-                  collapsed: false,
+                  collapsed: true,
                   items: [
                     { text: 'Lesson 1', link: '/en/didattica/lezione-1' },
                     { text: 'Lesson 2', link: '/en/didattica/lezione-2' },
                     { text: 'Lesson 3', link: '/en/didattica/lezione-3' }
                   ]
                 },
-                { text: 'Events', link: '/en/eventi' },
+                { text: 'Communication', link: '/en/comunicazione' },
               ]
             }
           ]

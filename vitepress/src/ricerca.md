@@ -14,7 +14,7 @@
 
 ## Tesi di dottorato
 
-- A W⋆-algebraic formalism for parametric models in Classical and Quantum Information Geometry ([pdf](./public/documents/ph.d.-thesis-di-nocera.pdf))
+- A W⋆-algebraic formalism for parametric models in Classical and Quantum Information Geometry ([pdf](./documents/ph.d.-thesis-di-nocera.pdf))
 
 ## Conferenze, workshops & seminari
 

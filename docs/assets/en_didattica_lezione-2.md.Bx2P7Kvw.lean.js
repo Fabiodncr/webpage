@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a}from"./chunks/framework.D_sy9b7Z.js";const _=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"en/didattica/lezione-2.md","filePath":"en/didattica/lezione-2.md"}'),n={name:"en/didattica/lezione-2.md"};function o(i,c,r,d,s,l){return t(),a("div")}const m=e(n,[["render",o]]);export{_ as __pageData,m as default};

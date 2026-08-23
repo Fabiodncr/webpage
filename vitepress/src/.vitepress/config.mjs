@@ -31,6 +31,11 @@ export default defineConfig(({ command }) => {
             { text: 'Comunicazione', link: '/comunicazione' },
           ],
           
+          outline: {
+            level: [2, 3],
+            label: 'In questa pagina' 
+          },
+
           sidebar: [
             {
               text: 'Menu',
@@ -58,6 +63,11 @@ export default defineConfig(({ command }) => {
         label: 'English',
         lang: 'en',
         link: '/en/',
+        
+        outline: {
+          level: [2, 3],
+          label: 'On this page' 
+        },
 
         themeConfig: {
           nav: [
@@ -104,7 +114,8 @@ export default defineConfig(({ command }) => {
         { icon: 'github', link: 'https://github.com/Fabiodncr' },
         { icon: 'linkedin', link: 'https://linkedin.com' }
       ]
-    } 
+    },
+    
   }
 
   head: [

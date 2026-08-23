@@ -111,8 +111,10 @@ export default defineConfig(({ command }) => {
     
     themeConfig: {
       socialLinks: [
+        { icon: 'gmail', link: 'mailto:fabiodncr@gmail.com' },
         { icon: 'github', link: 'https://github.com/Fabiodncr' },
-        { icon: 'linkedin', link: 'https://linkedin.com' }
+        { icon: 'linkedin', link: 'https://www.linkedin.com/in/fabio-di-nocera-647123180' },
+        { icon: 'googlescholar', link: 'https://scholar.google.com/citations?user=f4tI0xcAAAAJ&hl=en' }
       ]
     },
     

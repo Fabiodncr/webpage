@@ -29,8 +29,6 @@ Nella pagina [didattica](./didattica.md) troverete delle *pagine tematiche* dedi
 
 Nella pagina [comunicazione](./comunicazione.md) ci sono invece degli articoli che rappresentano un tentativo (forse maldestro) di tenere insieme cose diverse: divulgazione e giornalismo scientifici in senso stretto, ma anche aspetti più *laterali*, come escursioni nella storia della scienza o della tecnica, o discussioni sul modo in cui percepiamo la scienza e la matematica, il modo in cui ne parliamo e il modo in cui la insegniamo. 
 
-PROVA
-
 ## Contatti e link
 - **Email:** fabiodncr@gmail.com
 - [GitHub](https://github.com/Fabiodncr)

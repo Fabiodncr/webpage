@@ -13,7 +13,7 @@ layout: doc
 
 Nato a [Gragnano](https://it.wikipedia.org/wiki/Panuozzo) nel lontano 1992, cresciuto a Castellammare di Stabia, ho studiato Fisica all'Università degli Studi di Napoli "Federico II", dove ho conseguito sia la laurea triennale che quella magistrale. 
 
-Durante i miei studi, mi sono avvicinato al mondo dei *metodi matematici per la fisica*, in particolare alle applicazioni della geometria differenziale nel campo della meccanica quantistica e della teoria dell'informazione. Questo percorso mi ha portato poi ad una breve ma felice esperienza nella ricerca, come dottorando al Max Planck Institut per la matematica nelle scienze di Lipsia. Trovate le mie pubblicazioni nella [pagina](./ricerca.md) di questo sito dedicata al mio lavoro scientifico.
+Durante i miei studi, mi sono avvicinato al mondo dei *metodi matematici per la fisica*, in particolare alle applicazioni della geometria differenziale nel campo della meccanica quantistica e della teoria dell'informazione. Questo percorso mi ha portato poi ad una breve ma felice esperienza nella ricerca, come dottorando al Max Planck Institut per la matematica nelle scienze di Lipsia.
 
 Un ottimo uso di questo spazio è ringraziare ancora una volta i professori Patrizia Vitale, Giuseppe Marmo e Jürgen Jost per la supervisione illuminante e premurosa.
 
@@ -25,12 +25,12 @@ Un po' di cose diverse.
 
 La pagina [ricerca](./ricerca.md) potete serenamente saltarla, lì ci sono i prodotto del mio lavoro scientifico (articoli, conferenze, tesi), negli anni 2020-2024.
 
-Nella pagina [didattica](./didattica.md) troverete delle *pagine tematiche* dedicate a vari argomenti di matematica e di fisica, con l'idea di spiegarli sfruttando la possibilità di creare modelli esplorabili, animazioni e grafici interattivi. 
-
 Nella pagina [comunicazione](./comunicazione.md) ci sono invece degli articoli che rappresentano un tentativo (forse maldestro) di tenere insieme cose diverse: divulgazione e giornalismo scientifici in senso stretto, ma anche aspetti più *laterali*, come escursioni nella storia della scienza o della tecnica, o discussioni sul modo in cui percepiamo la scienza e la matematica, il modo in cui ne parliamo e il modo in cui la insegniamo. 
 
+La pagina [didattica](./didattica.md) è un esperimento. Vorrei creare delle *pagine tematiche* dedicate a vari argomenti di matematica e di fisica, con l'idea di spiegarli sfruttando la possibilità di creare modelli esplorabili, animazioni e grafici interattivi. Tutto un grosso *work in progress* senza una scadenza chiara.
 
 ## Contatti e link
+
 - **Email:** fabiodncr@gmail.com
 - [GitHub](https://github.com/Fabiodncr)
 - [Linkedin](https://www.linkedin.com/in/fabio-di-nocera-647123180)

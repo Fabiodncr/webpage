@@ -11,7 +11,7 @@ export default defineConfig(({ command }) => {
     base: isBuild ? '/webpage/' : '/', 
     
     title: "Fabio Di Nocera",
-    description: "Ricercatore in Fisica",
+    description: "...writing about physics & maths",
     srcDir: '.',
     markdown: {
       math: true,
@@ -27,12 +27,12 @@ export default defineConfig(({ command }) => {
           nav: [
             { text: 'Home', link: '/' },
             { text: 'Ricerca', link: '/ricerca' },
-            { text: 'Didattica', link: '/didattica' },
             { text: 'Comunicazione', link: '/comunicazione' },
+            { text: 'Didattica', link: '/didattica' }
           ],
           
           outline: {
-            level: [2, 3],
+            level: 2,
             label: 'In questa pagina' 
           },
 
@@ -42,17 +42,15 @@ export default defineConfig(({ command }) => {
               items: [
                 { text: 'Home', link: '/' },
                 { text: 'Ricerca', link: '/ricerca' },
+                { text: 'Comunicazione', link: '/comunicazione' },
                 {
                   text: 'Didattica', 
                   link: '/didattica',
                   collapsed: true,
                   items: [
-                    { text: 'Lezione 1', link: '/didattica/lezione-1' },
-                    { text: 'Lezione 2', link: '/didattica/lezione-2' },
-                    { text: 'Lezione 3', link: '/didattica/lezione-3' }
+                    { text: 'Argomento 1', link: '/didattica/arg-1' },
                   ]
-                },
-                { text: 'Comunicazione', link: '/comunicazione' }
+                }
               ]
             }
           ]
@@ -65,7 +63,7 @@ export default defineConfig(({ command }) => {
         link: '/en/',
         
         outline: {
-          level: [2, 3],
+          level: 2,
           label: 'On this page' 
         },
 
@@ -73,8 +71,8 @@ export default defineConfig(({ command }) => {
           nav: [
             { text: 'Home', link: '/en/index' },
             { text: 'Research', link: '/en/ricerca' },
-            { text: 'Teaching', link: '/en/didattica' },
-            { text: 'Communication', link: '/en/comunicazione' }
+            { text: 'Communication', link: '/en/comunicazione' },
+            { text: 'Teaching', link: '/en/didattica' }
           ],
 
           sidebar: [
@@ -83,17 +81,15 @@ export default defineConfig(({ command }) => {
               items: [
                 { text: 'Home', link: '/en/index' },
                 { text: 'Research', link: '/en/ricerca' },
+                { text: 'Communication', link: '/en/comunicazione' },
                 { 
                   text: 'Teaching', 
                   link: '/en/didattica',
                   collapsed: true,
                   items: [
-                    { text: 'Lesson 1', link: '/en/didattica/lezione-1' },
-                    { text: 'Lesson 2', link: '/en/didattica/lezione-2' },
-                    { text: 'Lesson 3', link: '/en/didattica/lezione-3' }
+                    { text: 'Topic 1', link: '/en/didattica/arg-1' },
                   ]
-                },
-                { text: 'Communication', link: '/en/comunicazione' },
+                }
               ]
             }
           ]

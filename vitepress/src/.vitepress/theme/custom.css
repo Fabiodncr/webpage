@@ -21,3 +21,9 @@
   max-width: 100%;  /* per non rompere il layout su schermi piccoli */
   height: auto;
 }
+
+.grafico {
+  width: 600px;
+  max-width: 100%;  /* per non rompere il layout su schermi piccoli */
+  height: 600px;
+}

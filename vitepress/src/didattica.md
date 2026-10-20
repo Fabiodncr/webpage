@@ -15,5 +15,5 @@ $$
 ## Prova animazioni/grafici interattivi
 
 <div>
-    <iframe src="./animazioni/lezione_1/grafico.html" width="800" height="500"></iframe>
+    <iframe src="./animazioni/lezione_1/grafico.html" class=grafico></iframe>
 </div>

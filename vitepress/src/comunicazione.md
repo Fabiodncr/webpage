@@ -57,6 +57,90 @@ Circondarla di un alone mistico, a mio avviso, presta il fianco ad un suo utiliz
 
 Ritorno su una cosa, ve l’avevo promesso: se credete che un dio copra la realtà di un velo appena smettiamo di osservarla noi esseri umani, potreste tranquillamente avere ragione e non abbiamo gli elementi per smentirlo. Sappiate solo che la meccanica quantistica non ha assolutamente bisogno di una visione del genere per funzionare e non rappresenta una prova in favore di questa visione. In generale, ogni teoria scientifica degna di questo nome non potrà né smentire né confermare questa visione. Fanno due mestieri diversi e si parlano poco.
 
----
 
-## Articolo 2
+## Le parole sono importanti
+
+*Qualche riflessione sul linguaggio che usiamo per spiegare la matematica, con esempi semplici*
+
+Partiamo da un disclaimer: anche se sono assolutamente convinto delle ragioni concettuali che espongo in questo articolo, non ho nessuna prova di effetti positivi sulla didattica in qualche modo misurabili o osservabili. Ho delle idee sul come possano impattare positivamente la didattica, ma (per fortuna direi) non ho mai fatto esperimenti con gruppi di controllo sui miei studenti. Fatemi sapere che ne pensate.
+
+Questo andava detto per amor di verità, ora passiamo in rassegna queste espressioni distinguendo tre categorie, in ordine di gravità. Farò un esempio per ognuna:
+ - Difficoltà effettive della matematica che si riflettono nel linguaggio che si usa: c’è poco da fare a parte farci attenzione.
+ - Narrazioni inaccurate che aiutano a spiegare delle cose ma potrebbe creare qualche confusione: chiediamoci se possiamo farne a meno.
+ - Nomenclatura terribile e inutilmente confondente: a mio avviso da abolire e basta.
+
+### Diventa, si trasforma
+
+Nella prima categoria rientra una cosa che si dice spesso, nel manipolare un’espressione, un’equazione o una quantità. Ovvero che questo termine **diventa** qualcos’altro, o che questa espressione **si trasforma** in quest’altra, o variazioni sul tema.
+
+Pensateci, se io dico che l’espressione 
+
+$$(a+b)^2$$
+
+diventa 
+
+$$a^2 + 2ab + b^2$$
+
+sto dicendo una cosa se non inesatta, quantomeno discutibile. L’uso del verbo **diventare** presuppone che sia avvenuto un cambiamento, mentre il punto è che quelle due espressioni sono due modi di scrivere la **stessa** quantità. La cosa diventa ancora più evidente nella soluzione delle equazioni, in cui tutti i passaggi sono (a parte qualche eccezione) esattamente delle riscritture dell’equazione in esame, che è il motivo per cui la soluzione che si trova è proprio la soluzione dell’equazione di partenza. Se fosse *diventata* un’altra cosa, la soluzione trovata sarebbe la soluzione di un’altra equazione. 
+
+È una questione abbastanza delicata, mi rendo conto. Come dicevo, è una difficoltà effettiva dell'argomento che si riflette nel linguaggio, non una difficoltà creata da un linguaggio improprio. Le cose vengono riscritte in maniera diversa mantenendo le stesse informazioni, e se questo rappresenta un cambiamento oppure no dipende dal modo in cui la si vede. Va bene così: è una difficoltà intrinseca e queste vanno affrontate, non rimosse. 
+
+Potrebbe aiutare farci attenzione: se quello che stiamo scrivendo è esattamente equivalente al passaggio precedente allora magari usiamo un’espressione del tipo *riscriviamo* o *che è lo stesso che scrivere*. Se invece contiene informazioni diverse, via libera a *diventa*, *si trasforma*, ecc.
+
+### Si cancella, se ne va, passa di là, cambia segno 
+
+Passiamo al secondo tipo. Partiamo da un’equazione:
+
+$$x + 3 - 5 = 3.$$
+
+Ammettetelo: vi prudono le mani. Volete *cancellare* quei tre. Perfetto, quei tre *vanno via*. Quindi abbiamo
+
+$$x - 5 = 0,$$
+
+poi il cinque *passa dall’altro lato* e nel farlo *cambia segno*, giusto? Quindi abbiamo
+
+$$x = 5,$$
+
+che è la soluzione. Benissimo, abbiamo appena risolto una bella equazione di primo grado.
+
+Mi rendo conto che la narrazione del *cancellare* e del *muovere* può aiutare a visualizzare dei passaggi, ma poi quando gli studenti poi fanno una cosa del tipo: 
+
+$$\frac{x+\bcancel{3}}{2} = \bcancel{3},$$
+
+che è un errore che ho visto diverse volte, allora no, quello non si può cancellare. Ma in effetti, se noi diciamo tutto il tempo che i numeri si possono cancellare, perché non dovrebbe essere possibile cancellare questi due? Così vanno via (che poi dove vanno?) e la smettono di dare fastidio.
+
+Il punto è che mi sembrano tutte sovrastrutture inutili. Semplicemente, le uguaglianze hanno la bellissima proprietà di poter aggiungere la stessa grandezza ai due membri dell’uguaglianza: l’analogia della bilancia è abusata perché è estremamente esplicativa e utile. Se hai una bilancia a due bracci in equilibrio ed aggiungi (o togli!) lo stesso peso ad entrambi i bracci questa resta in equilibrio. In questo modo è possibile riscrivere un’equazione in un modo diverso. 
+
+Non sto dicendo di dover fare tutti i passaggini necessariamente uno ad uno in maniera pedante, di fronte all’equazione 
+
+$$x + 3 - 5 = 3,$$
+
+possiamo semplicemente dire “tolgo tre ad ambo i membri”, quindi la si può riscrivere come
+
+$$x - 5 = 0$$
+
+e qui dire “aggiungo 5 ad ambo i membri” e scrivere 
+
+$$x = 5.$$
+
+Non ho *mosso* nulla, non ho *cambiato* nessun segno, non ho *cancellato* niente. I numeri non si muovono, non cambiano segno, non si cancellano. Io **scelgo** di fare delle operazioni, che sono legittime in virtù di una proprietà (anche piuttosto ovvia), ogni volta che ho un’operazione che so fare (3-3 = 0; -5+5 = 0; 0+5 = 5) ne scrivo direttamente il risultato. 
+
+### Le cose false
+
+> **DISCLAIMER LINGUISTICO**: Nel tradurre questo articolo in inglese mi sono reso conto che le espressioni di cui parlo in questo paragrafetto non esistono in inglese. Questo mi fa molto piacere, perché vuol dire che non viene fatto questo disservizio agli studenti che imparano la matematica in inglese. Potrebbe anche servire a convincerci che è possibile fare a meno di queste espressioni, dal momento che evidentemente ci sono paesi che non le usano e le persone sono comunque in grado di capire la matematica. 
+
+Quello che invece è un vero capolavoro di pigrizia linguistica senza appello è il cosiddetto *falso sistema* (ma non è l’unico, per esempio esiste anche il *falso quadrato*).
+
+Provo a farla breve: immaginate di dover studiare il segno di una grandezza, ovvero stabilire per quali valori di una variabile questa grandezza è positiva o negativa. Succede che questa grandezza sia il prodotto (o il rapporto, cambiando pochi dettagli) di due quantità. Quello che si fa, se si è in grado di studiare il segno di entrambe le quantità singolarmente, è dedurre il segno del prodotto usando la regola dei segni (quella che si impara in prima media! Più per meno fa meno…) a partire dal segno dei due fattori. Sono stato sbrigativo, ma mi pare tutto abbastanza lineare.
+
+Questa procedura nei libri di testo del liceo italiano prende il nome di falso sistema. Non credo di avere tutte le parole per esprimere il mio astio nei confronti di questa cosa. Provo a mettere ordire:
+ - Una cosa o è un sistema o non lo è. 
+ - Falso ha già un significato in logica e non c’entra niente.
+ - Col sistema ha in comune delle cose più di facciata che sostanziali, quindi chiamarlo con lo stesso nome dà peso proprio a quello a cui non si dovrebbe dare peso.
+ - Questa cosa ha già un nome, si chiama regola dei segni. Questo nome, oltre ad essere più corretto (perché descrive quello che stiamo facendo), è un nome che gli studenti conoscono già(!!!). 
+
+Capite, diamo un nome diverso ad una cosa che ha già un nome, e questo nome è il nome di un’altra cosa (che magari uno studente ha imparato da poco e non gli è chiarissima) adornata dell’aggettivo falso, un aggettivo che dà pure l’impressione che non ci sia granché da fidarsi…
+
+### Mi fermo che mi sale la pressione.
+
+Come conclusione, io vi (e mi) invito a fare una cosa che forse non si applica solo alla matematica. Di fronte a delle incomprensioni proviamo ad abbandonare un linguaggio che ripetiamo senza farci troppe domande e pensiamo solo a *spiegare quello che stiamo facendo, descrivere la situazione, usando il linguaggio più aderente alla realtà che ci viene in mente*. Magari aiuta.

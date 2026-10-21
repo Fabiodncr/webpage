@@ -1,19 +1,12 @@
 # Didattica
 
-Intro
+## Test animazioni/grafici 2D
 
-## Prova formule
+<iframe src="/animazioni/lezione_1/grafico2d.html"
+        style="width:100%; aspect-ratio:16/9; border:0;"></iframe>
 
-Formule inline $c = \lambda \cdot f$. 
+## Test animazioni/grafici 3D
 
-Formula 
+<iframe src="/animazioni/lezione_1/elica.html"
+        style="width:100%; aspect-ratio:16/9; border:0;"></iframe>
 
-$$
-\hat{f}(\xi) = \int_{-\infty}^{\infty} f(x) e^{-2\pi i x \xi} \, dx
-$$
-
-## Prova animazioni/grafici interattivi
-
-<div>
-    <iframe src="./animazioni/lezione_1/grafico.html" class=grafico></iframe>
-</div>

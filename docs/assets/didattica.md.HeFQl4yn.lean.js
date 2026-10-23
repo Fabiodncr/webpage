@@ -1,0 +1,1 @@
+import{o as i,c as t,ae as e}from"./chunks/framework.D_sy9b7Z.js";const c=JSON.parse('{"title":"Didattica","description":"","frontmatter":{},"headers":[],"relativePath":"didattica.md","filePath":"didattica.md"}'),r={name:"didattica.md"},s=Object.assign(r,{setup(n){return(o,a)=>(i(),t("div",null,[...a[0]||(a[0]=[e("",5)])]))}});export{c as __pageData,s as default};

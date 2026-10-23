@@ -1,15 +1,13 @@
 Cambia colori modalità chiara
 
-Controlla colori modalità notte
-
-Scrivi un articolo in didattica
-
-Scrivi un articolo in comunicazione
-
 Scrivi intro didattica
 
 Scrivi intro comunicazione
 
-Traduci in inglese tutto
+Scrivi un articolo in didattica
+
+Statistiche sito con Umami
+
+Contatore letture su articoli
 
 Aggiungi tedesco?

@@ -119,6 +119,7 @@ export default defineConfig(({ command }) => {
       defer: '',
       src: 'https://cloud.umami.is/script.js',
       'data-website-id': 'ebb095e6-fd07-48b3-a4fa-138e60a5943a'
+      'data-domains': 'fabiodncr.github.io'
     }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css' }]
   ]

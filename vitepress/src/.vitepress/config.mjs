@@ -114,8 +114,6 @@ export default defineConfig(({ command }) => {
       ]
     },
     
-  }
-
   head: [
     ['script', {
       defer: '',
@@ -124,5 +122,7 @@ export default defineConfig(({ command }) => {
     }],
     ['link', { rel: 'stylesheet', href: 'https://cdn.jsdelivr.net/npm/katex@0.16.8/dist/katex.min.css' }]
   ]
+  
+  }
 
 })
